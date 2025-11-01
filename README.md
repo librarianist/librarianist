@@ -3,7 +3,6 @@
 - ✏️ I’m currently working on my first GitHub repo, porting over a library pattern language project I've noodled around with for years. 
 - 💬 Ask me about the intersection of libraries and technology!
 - 🖖 Pronouns: he / him
-- 
 <!--
 **librarianist/librarianist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
